@@ -1,2 +1,2 @@
 
-Please check the etxt files
+Please check the txt files
